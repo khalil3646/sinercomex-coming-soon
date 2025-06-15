@@ -1,4 +1,4 @@
-export default function Home() {
+export default function App() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-white text-center px-6">
       <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">Sinercomex</h1>
